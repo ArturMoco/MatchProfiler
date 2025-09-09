@@ -3,8 +3,7 @@
 ---
 
 ## 🎯 Overview
-
-**Author: Artur Felipe Albuquerque Portela** — candidate for the **QA Engineer (Selenium)** position presented by Match Profiler for the client **Natixis**.  
+ 
 This document describes the QA process applied in banking and **Trade Finance** products, using **structured methodology, Selenium-based automation, AI-assisted productivity, and API contract validation** to ensure quality and predictable deliveries.
 
 ---
