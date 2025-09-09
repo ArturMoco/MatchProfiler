@@ -3,8 +3,7 @@
 ---
 
 ## 🎯 Visão Geral  
-
-Sou **Artur Felipe Albuquerque Portela**, candidato à vaga de **QA Engineer (Selenium)** pela Match Profiler.  
+ 
 Este guia resume como aplico meu processo de QA ao setor **Bancário e Trade Finance**, combinando **método, automação, uso de IA e validação de contratos de API** para garantir qualidade e previsibilidade em cada entrega.  
 
 ---
